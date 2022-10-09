@@ -11,6 +11,8 @@ blog({
   avatar: "https://deno-avatar.deno.dev/avatar/blog.svg",
   avatarClass: "rounded-full",
   author: "An author",
+  theme: "auto",
+  style:".markdown-body ul, .markdown-body ol { list-style: disc !important;}"
 
   // middlewares: [
 
