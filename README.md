@@ -9,4 +9,4 @@ URL=https://deno-markdown-blog.deno.dev/
 ``` 
 
 ## DEMO 
-![DEMO](./assets/denoblog.png)
+![DEMO](./assets/deno-blog.png)
