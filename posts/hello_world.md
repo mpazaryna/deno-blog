@@ -15,3 +15,10 @@ First blog post create with deno blog package. It is amazing package to create m
 ```javascript
 console.log("hello world, iframe")
 ```
+
+## Google Map in an iFrame
+
+Here's a [site](https://www.embedgooglemap.net/) that allows you to get the iFrame code generated, although it adds in some
+unnecessary code.
+
+<iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=2880%20Broadway,%20New%20York&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
