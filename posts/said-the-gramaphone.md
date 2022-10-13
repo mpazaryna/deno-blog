@@ -23,29 +23,20 @@ allow_iframes: true
 <a href="http://nicolameighan.wordpress.com">Nicola Meighan</a> &loz; <br />
 <a href="http://www.fluxblog.org/" target="_new">Fluxblog</a> &loz;  <br />
 <a href="http://www.wnyc.org/shows/radiolab/" target="_new">radiolab [podcast]</a><br />
-<hr/>
 <a href="http://music.ckut.ca/" target="_new">CKUT Music</a> &loz;<br />
-<a href="http://wattledsmokyhoneyeater.tumblr.com/" target="_new">Wattled Smoky Honeyeater</a> &loz;<br />
 <a href="http://www.clearmindedcreative.com" target="_new">The Clear-Minded Creative</a><br />
-<a href="http://thetorturegarden.blogspot.com/">Torture Garden</a> &loz;<br />
 <a href="http://lpwtf.tumblr.com/">LPWTF?</a> &loz;<br />
 <a href="http://passionweiss.com">Passion of the Weiss</a> &loz;<br />
-<a href="http://juan-and-only.blogspot.com">Juan and Only</a> &loz;<br />
 <a href="http://horsesthink.com">Horses Think</a><br />
 <a href="http://whitehotel.tumblr.com">White Hotel</a><br />
 <a href="http://nobilliards.blogspot.com">Then Play Long (Marcello Carlin)</a> &loz; <br />
 <a href="http://unomoralez.livejournal.com">Uno Moralez</a><br />
 <a href="http://comingupforair.net">Coming Up For Air (Matt Forsythe)</a><br  />
 <a href="http://ftrain.com/" target="_new">ftrain</a><br />
-<a href="http://www.myloveforyou.typepad.com/" target="_new">my love for you is a stampede of horses</a><br />
 <a href="http://itsnicethat.com/" target="_new">It's Nice That</a><br />
-<a href="http://www.marathonpacks.com" target="_new">Marathonpacks</a> &loz;<br />
-<a href="http://songbytoad.com/">Song, by Toad</a> &loz;<br />
-<a href="http://www.theatlantic.com/infocus/">In Focus</a><br  /><a href="http://amassblog.com">AMASS BLOG</a><br />
 <a href="http://bmrinventory.tumblr.com/">Inventory</a><br />
 <a href="http://www.waxy.org" target="_new">Waxy</a><br />
 <a href="http://wtfpod.com/">WTF [podcast]</a><br />
-<a href="http://www.masalacism.com/">Masalacism</a> &loz;<br />
 <a href="http://www.therestisnoise.com/" target="_new">The Rest is Noise (Alex Ross)</a> &loz;<br />
 <a href="http://goldkicks.blogspot.com/">Goldkicks</a> &loz;<br />
 <a href="http://mydaguerreotypeboyfriend.tumblr.com">My Daguerreotype Boyfriend</a> <br />
