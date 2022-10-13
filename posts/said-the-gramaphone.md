@@ -7,6 +7,9 @@ allow_iframes: true
 cover_html: <img src="assets/said-landing.png" alt="said-landing" />
 ---
 
+<img src="assets/said-landing.png"/>
+
+
 ## Music
 
 <a href="http://www.blogotheque.net" target="_new">La Blogoth&egrave;que</a> &loz;<br />
