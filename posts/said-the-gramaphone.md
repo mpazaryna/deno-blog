@@ -6,10 +6,6 @@ tags: ["mp3blog"]
 allow_iframes: true
 ---
 
-
-
-
-
 ## All Links
 
 <a href="http://backtotheworld.net/">Back to the World</a><br />
@@ -19,23 +15,16 @@ allow_iframes: true
 <a href="http://agrammar.tumblr.com/">A Grammar (Nitsuh Abebe)</a> &loz;<br />
 <a href="http://deejayjay-waitaminute.blogspot.ca/" target="_new">Words and Music</a> &loz;<br />
 <a href="http://gorillavsbear.net/" target="_new">Gorilla vs Bear</a> &loz;<br />
-<hr/>
 <a href="http://silentshout.ca/">Silent Shout</a> &loz;<br />
-<a href="http://cloudofevil.blogspot.com/" target="_new">Clouds of Evil</a> &loz;<br />
-<a href="http://thedolbyapposition.wordpress.com/">The Dolby Apposition</a> &loz;<br />
-<a href="http://awesometapesfromafrica.blogspot.com" target="_new">Awesome Tapes from Africa</a> &loz;<br />
-<a href="http://molarsmolars.com/">Molars</a> &loz;<br />
-<a href="http://www.daytrotter.com/" target="_new">Daytrotter</a> &loz;<br />
+<a href="https://www.awesometapes.com/" target="_new">Awesome Tapes from Africa</a> &loz;<br />
 <a href="http://inthemidstofmemory.blogspot.com/" target="_new">Matana Roberts</a> &loz;<br />
-<a href="http://www.pitchforkreviewsreviews.com">Pitchfork Reviews Reviews</a> &loz;<br />
-<a href="http://ilikeyoupodcast.com/">i like you [podcast]</a><br />
 <a href="http://musicophilia.wordpress.com">Musicophilia</a> &loz;<br />
 <a href="http://anagramatron.tumblr.com/">Anagramatron</a><br />
 <a href="http://nicolameighan.wordpress.com">Nicola Meighan</a> &loz; <br />
 <a href="http://www.fluxblog.org/" target="_new">Fluxblog</a> &loz;  <br />
 <a href="http://www.wnyc.org/shows/radiolab/" target="_new">radiolab [podcast]</a><br />
+<hr/>
 <a href="http://music.ckut.ca/" target="_new">CKUT Music</a> &loz;<br />
-<a href="http://hotscot.blogspot.com/" target="_new">plethoric pundrigrions</a><br />
 <a href="http://wattledsmokyhoneyeater.tumblr.com/" target="_new">Wattled Smoky Honeyeater</a> &loz;<br />
 <a href="http://www.clearmindedcreative.com" target="_new">The Clear-Minded Creative</a><br />
 <a href="http://thetorturegarden.blogspot.com/">Torture Garden</a> &loz;<br />
