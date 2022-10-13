@@ -4,9 +4,10 @@ publish_date: 2022-10-08
 author: "mpaz"
 tags: ["mp3blog"]
 allow_iframes: true
+cover_html: <img src="assets/said-landing.png" alt="said-landing" />
 ---
 
-## Music Links
+## Music
 
 <a href="http://www.blogotheque.net" target="_new">La Blogoth&egrave;que</a> &loz;<br />
 <a href="http://www.weirdcanada.com">Weird Canada</a> &loz;<br />
@@ -27,8 +28,7 @@ allow_iframes: true
 <a href="http://goldkicks.blogspot.com/">Goldkicks</a> &loz;<br />
 <a href="http://www.thehoodinternet.com/" target="_new">The Hood Internet</a> &loz;<br />
 
-## Other Links
-
+## Other
 
 <a href="http://www.cafeolimpico.com/">café olimpico</a><br />
 <a href="http://www.drawnandquarterly.com" target="_new">drawn + quarterly</a><br />
