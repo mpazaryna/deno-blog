@@ -7,6 +7,9 @@ allow_iframes: true
 cover_html: <img src="assets/said-landing.png" alt="said-landing" />
 ---
 
+One of the earlier and favorite of the mp3blogs was [Said The Gramaphone](http://www.saidthegramophone.com/)
+
+
 ## Music
 
 <a href="http://www.blogotheque.net" target="_new">La Blogoth&egrave;que</a> &loz;<br />
