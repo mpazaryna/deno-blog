@@ -7,6 +7,38 @@ allow_iframes: true
 cover_html: <img src="assets/hova.png" alt="hova-landing" />
 ---
 
+<a href="https://wfmu.org/playlists/HN" target="_new">Original Site</a>
+
+
 <iframe src='https://wfmu.org/archiveplayer/?show=6772&archive=109104' style='border:0; width:400px; height:200px;'></iframe>
 
-
+- The Clash: Listen
+- The Clash: Safe European Home
+- Ted Leo/Pharmacists: Where Have All the Rude Boys Gone?
+- The Libertines: The Boy Looked At Johnny
+- Imperial Teen: Sugar
+- Errase Errata: Marathon
+- The Raincoats: No One's Little Girl
+- Deke Dickerson: I Might Not Come Home at All
+- Johnny Kidd & the Pirates: Shakin' All Over
+- X: I Will Dare
+- Jon Langford & His Sadies: Last King of the Road
+- Dave Decastro: Pep Pills
+- Sally Crewe & the Sudden Moves: Friend of the City
+- Christina Rosenvinge: Que Se Siente
+- The Headcoatees: Paint It Black
+- The Aislers Set: Mission Bells
+- Kickstand: How To Make a Girl Cry
+- The Minus 5: Dear Employer (The Reason I Quit)
+- Teenage Fanclub: Happiness
+- Stephen Malkmus & the Jicks: Vanessa From Queens
+- Eleni Mandell: You're All Bad (And That's Why You've Been Invited)
+- The Go-Betweens: Caroline and I
+- The Last: This Kind of Feeling
+- Emitt Rhodes: With My Face on the Floor
+- The Stratford For: Kleptophilia
+- Yo La Tengo: Sugarcube
+- Mark Robinson: Tasty Black Licorice
+- Dr. Alimantado: Best Dressed Chicken in Town
+- Toots & the Maytals: 54-46 That's My Number
+- The Mekons: Thee Olde Trip to Jerusalem
