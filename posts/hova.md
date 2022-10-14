@@ -10,7 +10,7 @@ cover_html: <img src="assets/hova.png" alt="hova-landing" />
 <a href="https://wfmu.org/playlists/HN" target="_new">Original Site</a>
 
 
-<iframe src='https://wfmu.org/archiveplayer/?show=6772&archive=109104' style='border:0; width:400px; height:200px;'></iframe>
+<iframe src='https://wfmu.org/archiveplayer/?show=6772&archive=109104' style='border:0; width:400px; height:600px;'></iframe>
 
 - The Clash: Listen
 - The Clash: Safe European Home
