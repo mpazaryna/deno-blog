@@ -7,7 +7,10 @@ allow_iframes: true
 cover_html: <img src="assets/hova.png" alt="hova-landing" />
 ---
 
-<a href="https://wfmu.org/playlists/HN" target="_new">Original Site</a>
+Independent freeform radio broadcasting at 91.1 and 91.9 fm in New Jersey and New York City,
+and at 90.1 and 91.9 fm in the Hudson Valley, with gobs of online offerings.  After clicking around the archive I came across the <a href="https://wfmu.org/playlists/HN" target="_new">Hova Playlists.</a>  Here's one for you to click on without leaving this site.
+
+There's also <a href="https://wfmu.org/playlists/GK" target="_new">additional lists here.</a>
 
 
 <iframe src='https://wfmu.org/archiveplayer/?show=6772&archive=109104' style='border:0; width:400px; height:600px;'></iframe>
