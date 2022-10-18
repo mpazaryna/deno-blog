@@ -18,7 +18,6 @@ One of the earlier and favorite of the mp3blogs was <a href="http://www.saidtheg
 <a href="http://gorillavsbear.net/" target="_new">Gorilla vs Bear</a> &loz;<br />
 <a href="http://silentshout.ca/">Silent Shout</a> &loz;<br />
 <a href="https://www.awesometapes.com/" target="_new">Awesome Tapes from Africa</a> &loz;<br />
-<a href="http://inthemidstofmemory.blogspot.com/" target="_new">Matana Roberts</a> &loz;<br />
 <a href="http://musicophilia.wordpress.com">Musicophilia</a> &loz;<br />
 <a href="http://nicolameighan.wordpress.com">Nicola Meighan</a> &loz; <br />
 <a href="http://www.fluxblog.org/" target="_new">Fluxblog</a> &loz;  <br />
