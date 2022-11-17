@@ -10,3 +10,12 @@ URL=https://deno-markdown-blog.deno.dev/
 
 ## DEMO 
 ![DEMO](./assets/deno-blog.png)
+
+
+## Manage the apps
+
+https://dash.deno.com/projects
+
+## Run dev
+
+deno task dev
